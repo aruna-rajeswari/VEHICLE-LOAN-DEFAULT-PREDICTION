@@ -66,7 +66,7 @@ This project aims to **analyze key determinants of vehicle loan defaults** and *
 
 ---
 
-## 🚀 Expected Outcomes
+## 🚀 Outcomes
 
 - Data-driven understanding of key factors influencing vehicle loan defaults.  
 - Predictive scoring model to identify high-risk applicants.  
