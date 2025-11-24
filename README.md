@@ -1,4 +1,4 @@
-# 🚗 Vehicle Loan Default Prediction
+# 🚗 Vehicle Loan Default Prediction Using Python and Tableau
 
 A comprehensive data analysis and predictive modeling project aimed at identifying high-risk vehicle loan applicants and understanding the factors influencing loan defaults. The project leverages **statistical analysis, machine learning, and interactive dashboards** to support data-driven decision-making for financial institutions.
 
