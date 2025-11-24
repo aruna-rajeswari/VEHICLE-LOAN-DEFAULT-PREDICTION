@@ -6,8 +6,7 @@ A comprehensive data analysis and predictive modeling project aimed at identifyi
 
 ## 📌 Introduction
 
-Financial institutions face substantial losses due to vehicle loan defaults. Stricter underwriting practices have increased rejection rates, creating the need for improved credit risk scoring models.  
-This project aims to **analyze key determinants of vehicle loan defaults** and **build a predictive model** to classify potential defaulters.
+Financial institutions face substantial losses due to vehicle loan defaults. Stricter underwriting practices have increased rejection rates, creating the need for improved credit risk scoring models. This project aims to **analyze key determinants of vehicle loan defaults** and **build a predictive model** to classify potential defaulters.
 
 ---
 
